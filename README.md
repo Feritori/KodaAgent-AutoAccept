@@ -4,6 +4,8 @@
 
 Автоматическое нажимание кнопки Да/OK/Allow
 
+##Для корректной работы нужен NET 8+
+
 Создатель: Merser2330
 
 Поддержи меня: https://www.donationalerts.com/r/maskitodmitriy
